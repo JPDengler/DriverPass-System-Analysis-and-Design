@@ -1,8 +1,8 @@
 # DriverPass System Analysis and Design README
-*Project Summary
+***Project Summary
 The DriverPass project aimed to develop a comprehensive driver training system for the client, DriverPass. The client's objective was to address the existing gaps in driver training by providing online classes, practice tests, and on-the-road training. The envisioned system needed to support different user roles, facilitate lesson scheduling, and ensure robust security measures.
 
-*Noteworthy Achievements
+***Noteworthy Achievements
 One aspect of my work that stands out is the clarity and organization in the system design document. I strived to create a document that not only comprehensively covered the system's functionality and objectives but also presented the information in a clear and accessible manner. The use of UML diagrams, especially class and activity diagrams, contributed to a visually enhanced representation of the system design.
 
 *Areas for Revision
