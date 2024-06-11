@@ -1,4 +1,4 @@
-# DriverPass System Analysis and Design README
+![Project Screenshot](https://github.com/JPDengler/DriverPass-System-Analysis-and-Design/blob/main/DriverPass%20System.png)
 # Project Summary
 The DriverPass project aimed to develop a comprehensive driver training system for the client, DriverPass. The client's objective was to address the existing gaps in driver training by providing online classes, practice tests, and on-the-road training. The envisioned system needed to support different user roles, facilitate lesson scheduling, and ensure robust security measures.
 
